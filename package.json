@@ -1,0 +1,24 @@
+{
+  "name": "doing-stat",
+  "version": "1.0.0",
+  "description": "Doing Basic Statistic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebranc-package/doing-stat.git"
+  },
+  "keywords": [
+    "npm",
+    "doing-stat",
+    "stat"
+  ],
+  "author": "lebrancconvas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebranc-package/doing-stat/issues"
+  },
+  "homepage": "https://github.com/lebranc-package/doing-stat#readme"
+}
